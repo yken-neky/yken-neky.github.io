@@ -2,26 +2,26 @@
   <img src="https://profile-counter.glitch.me/yken-neky/count.svg?"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yken-neky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yken-neky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <h1 align="left">Sobre mí:</h1>
 
-###
+
 
 <p align="left">- 👋 Hola, mi nombre es Yan Luis González Palomo (@yken-neky)<br>- 👀 Estudio Ingeniería en Ciberseguridad en la Universidad de las Ciencias Informáticas de la Habana, Cuba. <br>- 🌱 Actualmente me encuentro aprendiendo sobre ciberseguridad en sistemas gestores de bases de datos para mi trabajo de culminación de estudios. <br>- 🥇 Aprendiendo en tiempo parcial temas de gestión empresarial y desarrollo de software comercial. <br>- 🏎️ Hobby ? Creer que soy Max Verstappen y perder la cuenta en la innumerable cantidad de veces que veo el hermoso "Has muerto" en Dark Souls: Prepare to Die Edition</p>
 
-###
+
 
 <h1 align="left">Dominio sobre las tecnologías:</h1>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -53,11 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
+
 
 <h1 align="left">Social Media:</h1>
 
-###
+
 
 <div align="left">
   <a href="https://www.facebook.com/share/18suA3oiPc/" target="_blank">
@@ -76,7 +76,7 @@
   </a>
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yken-neky/yken-neky/output/pacman-contribution-graph-dark.svg">
@@ -84,4 +84,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yken-neky/yken-neky/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
