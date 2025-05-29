@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="256" fill="#4A3428"/>
+    
+    <!-- Coffee Cup -->
+    <path d="M128 192C128 169.909 145.909 152 168 152H344C366.091 152 384 169.909 384 192V288C384 345.438 337.438 392 280 392H232C174.562 392 128 345.438 128 288V192Z" fill="#F5F5F5"/>
+    
+    <!-- Steam -->
+    <path d="M208 120C208 120 224 104 256 104C288 104 304 120 304 120" stroke="#F5F5F5" stroke-width="16" stroke-linecap="round"/>
+    <path d="M232 96C232 96 256 80 280 96" stroke="#F5F5F5" stroke-width="16" stroke-linecap="round"/>
+    
+    <!-- Handle -->
+    <path d="M384 224H416C434.091 224 448 237.909 448 256C448 274.091 434.091 288 416 288H384" stroke="#F5F5F5" stroke-width="24" stroke-linecap="round"/>
+    
+    <!-- Coffee Surface -->
+    <path d="M144 208C144 208 176 224 256 224C336 224 368 208 368 208" stroke="#C17817" stroke-width="16" stroke-linecap="round"/>
+</svg> 
